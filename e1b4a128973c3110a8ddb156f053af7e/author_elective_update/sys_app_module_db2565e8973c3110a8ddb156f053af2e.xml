@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Hello World">132565e8973c3110a8ddb156f053af28</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sp_portal</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:42:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>db2565e8973c3110a8ddb156f053af2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hello World" source="x_1111280_hello_wo">e1b4a128973c3110a8ddb156f053af7e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e1b4a128973c3110a8ddb156f053af7e</sys_scope>
+        <sys_update_name>sys_app_module_db2565e8973c3110a8ddb156f053af2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:42:38</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">e1b4a128973c3110a8ddb156f053af7e</application>
+        <file_path/>
+        <instance_id>0dd5ac77db81511442b321c405961969</instance_id>
+        <instance_name>dev130929</instance_name>
+        <name>sys_app_module_db2565e8973c3110a8ddb156f053af2e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Hello World">132565e8973c3110a8ddb156f053af28</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sp_portal</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-18 11:42:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>db2565e8973c3110a8ddb156f053af2e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Hello World" source="x_1111280_hello_wo">e1b4a128973c3110a8ddb156f053af7e</sys_package><sys_policy/><sys_scope display_value="Hello World">e1b4a128973c3110a8ddb156f053af7e</sys_scope><sys_update_name>sys_app_module_db2565e8973c3110a8ddb156f053af2e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-18 11:42:38</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1474098572</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>25b4a128973c3110a8ddb156f053af80</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:42:38</sys_created_on>
+        <sys_id>9725a52c973c3110a8ddb156f053af31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a08745c5c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:42:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>df25a52cf13c3110930d712a61601f30</update_guid>
+        <update_guid_history>df25a52cf13c3110930d712a61601f30:-1474098572</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">e207e1ac973c3110a8ddb156f053af1b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:50:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>a706b3af503d4b9097a1ac9fb148c100</sys_id>
+        <sys_metadata>db2565e8973c3110a8ddb156f053af2e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Hello World" source="x_1111280_hello_wo">e1b4a128973c3110a8ddb156f053af7e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e1b4a128973c3110a8ddb156f053af7e</sys_scope>
+        <sys_scope_delete display_value="">084c59c06bc347108115a684430e1900</sys_scope_delete>
+        <sys_update_name>sys_app_module_db2565e8973c3110a8ddb156f053af2e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_db2565e8973c3110a8ddb156f053af2e">9725a52c973c3110a8ddb156f053af31</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:50:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
